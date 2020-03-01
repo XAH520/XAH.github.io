@@ -1,0 +1,70 @@
+body{
+	padding: 20px;
+	padding: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	margin-bottom: 26px;	
+	background-image: ("jojoиса.jpg");
+	background-repeat: no-repeat;
+	background-color:#243235;}
+div{
+	border:solid 2px #fff;
+	 padding: 2px; 
+    margin-bottom: 20px;
+}	
+
+p{
+	font size:5; 
+	color:#FFFFFF;
+	face:Arial;
+}
+a.button{
+	border: solid 1px #5181B8;
+	background-color:#E40D0D;
+	color:#fff;
+	padding:4px;
+	border-radius: 3px;
+	text-decoration:none;
+	font-size:1.3em;
+}
+span.button2{
+	position:reative;
+	background-position:lef top;
+	width: 25px;
+	height: 34px;
+	background-image: url(../img/3jpg);
+	background-repeat:no-repeat;
+	background-origin: content-box;
+	display:block;
+}
+span.button:hover{
+	background-position:lef top-32px;
+	cursor:pointer;
+	background-origin: content-box;
+}
+a.button:hover{
+	border: solid 1px #5181B8;
+	background-color:#E40D0D;
+	color:#000;
+	padding:4px;
+	border-radius: 3px;
+	text-decoration:none;
+	font-size:1.3em;
+p{
+	width: 50%;
+	border: 1px solid #5181B8;
+	float:left;
+}
+img{
+	size:5px;
+}
+div{
+	width:4%;
+	border:1 px solid grey;
+	min-height:20px;
+	far-left:
+}
+.foo{
+	border:2px solid #00FFA9;
+	background:#FFFFFF
+}

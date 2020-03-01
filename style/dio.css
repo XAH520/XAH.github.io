@@ -1,0 +1,130 @@
+body{
+	background: #7D81FF;
+}
+div{
+	font-family: 'Bebas Neue', cursive;
+}
+p.test{
+	padding:20PX;
+	border: 1px solid #FF00AE;
+	margin: 40px;
+}
+ul.nav{
+	list-style-type:none;
+	margin-left:20px ;
+	padding-left:130px ;
+	transform: scale(2);
+}
+ul.nav a{
+	display:line-block;
+	width:100px;
+	background:#70E4AC;
+	line-height:1.5em;
+	padding:3px;
+	border: solid 1px dashed #5181B8 ;
+	background-color:#E40D0D;
+	color:#fff;
+	padding:5px 10px;
+	border-radius: 3px;
+	text-decoration:none;
+	font-size:1.3em;
+	display: inline;
+	transition-property:all;
+	transition-duration:1s;
+}
+ul.nav:hover{
+	-webkit-transform:scale(2.3);
+	-ms-transform:scale(2.3);
+	transform:scale(2.3);
+	color:orange;
+	font-size:17px;
+	margin:10px;
+	
+}
+p.test2{
+	background: #FF0000;
+	border-radius: 11px;
+	padding:10PX 15px 20px 2px;
+	border: 5px solid #FFDD00;
+	margin: 20px;
+	margin: 10px 3px;
+}
+p{
+	color: #020102;
+	font-size:20px;
+	text-align: center;	
+	font-family: 'Bebas Neue', cursive;
+	letter-spacing:2px;
+	word-spacing:3px;
+	line-height:35px;
+	box-shadow: 4px 4px 8px #000;
+}
+test{
+	border: solid 1px #5181B8;
+	background-color:#E40D0D;
+	color:#fff;
+	padding:4px;
+	border-radius: 3px;
+	text-decoration:none;
+	font-size:1.3em;
+
+}
+il{
+	display:inline;
+}
+h1,h2,h3{
+	color:rgb(15,23,135);
+	text-align: center;	
+	text-shadow:-3px 5px 5px #00FFA9;
+	font-family: 'Josefin Sans', sans-serif;
+
+	#
+	
+}
+#logo{
+	font-family: 'Calistoga', cursive;
+	font-size:50px;
+	color:#EEE6FF;
+	font-style: italic;
+	text-align: center;	
+	margin-bottom: 26px;
+	background: #FF0000;
+	border-radius:0 0 10px 10px;
+	podding: 102px
+}
+.note{
+	color: #000000;
+	border: 10px solid #FF0000;
+	border-shadow:-3px 5px 5px #00FFA9;
+	backround: rgb(69,188,102);
+	margin-top: 22px
+	margin-bottom:30px
+	padding;18px
+}
+article{
+	max-width:750px;
+	margin: 0 auto;
+}
+a{
+	text-decoration:non;
+	font-family: 'Josefin Sans', sans-serif;
+}
+a:hover{
+	text-decoration:underline;
+}
+/* p::first-letter{
+	font-size:20px;
+	font-weight:bold;
+	background:#FF69E1;
+	color:#00FFA9;
+} */
+ol{
+	list-style-type:upper-alpha;
+	list-style-position:outside;
+	border: 1px solid #FF00AE;
+	list-style-image:url(../img/1.bmp);
+}
+footer{
+	background-color:#E019FF;
+	border:1px solid #39FF23;
+}
